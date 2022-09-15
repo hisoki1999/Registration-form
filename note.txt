@@ -1,0 +1,13 @@
+command1
+command to create github repository
+git init
+git add .
+git commit -m "initial commit"
+git remote add origin https://github.com/ashu73jha/Register-form.git
+git push -u origin master
+
+command2
+command2 update repository
+git add .
+git commit -m " made website responsive"
+git push
